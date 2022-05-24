@@ -13,4 +13,4 @@ In this project, you can do the following:
 * It is a very basic project for demonstration of JsonPowerDb with help of a web application. 
 * Can be further improved by addidng additional fields and can be made into a working DB manager.
 
-#### You can see Implementation Screenshot in "Implementation Screenshot" Folder
+#### You can see Implementation Screenshot in "Implementation" Folder
